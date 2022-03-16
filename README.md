@@ -1,6 +1,6 @@
 # Lab2Web
 ###### Nama : Evarostiana Dewi
-###### NIM : 312010333
+###### NIM : 312010295
 ###### Kelas : TI.A.2
 
 ## TugasCSSWebProgramming
